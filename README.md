@@ -7,3 +7,6 @@ https://www.figma.com/file/gAdsLjKqekZfpztj8et4eL/osteo-dok.ru?type=design&node-
 
 * Скачать файл .fig можно здесь:
 https://disk.yandex.ru/d/te3itSJls2HqZw
+
+* Сайт сверстан и выложен на бой:
+https://osteo-dok.ru/
